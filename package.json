@@ -1,5 +1,6 @@
 {
   "name": "react-sample",
+  "homepage": "https://ethan-w-foshee.github.io/react-sample/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
